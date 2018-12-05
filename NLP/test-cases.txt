@@ -1,0 +1,14 @@
+Test case sentence structure -
+Action (A) - Literally the action user has to perform. Click, Enter data, drag-drop, close, verify etc.
+Action item Name(AIN) - The application item name visible on the screen upon which user performs an Action (A).
+Action Item Kind (AIK) - The kind of the action item. Ex- button, link, hyperlink, window, popup, etc.
+Action Data (AD) - The data associated with the action. Ex - the text you want to enter.
+Preposition/Suboordinating Conjuction (IN) - at,in,on
+
+
+
+---------------------------CLICK-------------------------
+1) Click at Reconcliation button.
+2) Click on Reconcliation button.
+3) Click Reconciliation button.
+4) Click the Reconciliation button.
